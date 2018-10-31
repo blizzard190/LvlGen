@@ -1,4 +1,4 @@
-# Inventory System
+# Lvl generator
 [prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
 Ik heb gekozen om een Dungeon generator te maken, ik heb deze keuzen gemaakt omdat ik het interessant vond. Ik heb gekeken naar wat een Dungeon generator nodig heeft, ik heb gevonden dat ze op verschillende manieren kunnen worden gemaakt zoals noice maps en spawn room(Wat ik heb gebruikt). Ik ben hier geïnteresseerd in omdat ik wil weten hoe snel dit gaat en hoeveel resources het gebruikt.
